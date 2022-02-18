@@ -1,4 +1,4 @@
-# FinancialAnalysis ![license](https://img.shields.io/github/license/pouyaardehkhani/FinancialAnalysis.svg)
+# FinancialAnalysis ![license](https://img.shields.io/github/license/pouyaardehkhani/FinancialAnalysis.svg) ![releases](https://img.shields.io/github/release/pouyaardehkhani/FinancialAnalysis.svg)
 This notebook provides some skills to perform financial analysis on economical data.
 
 **NOTE : Details are provided in the notebook**
