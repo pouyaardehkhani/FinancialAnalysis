@@ -4,12 +4,12 @@ This notebook provides some skills to perform financial analysis on economical d
 **NOTE : Details are provided in the notebook**
 
 # Skills that are covered in the notebook
-1. **Plotting stock data by both matplotlib and plotly**
+1. **Plotting stock data by both matplotlib and plotly** <a href="https://colab.research.google.com/github/pouyaardehkhani/FinancialAnalysis/blob/master/STOCKS_DATA_ANALYSIS_AND_VISUALIZATION.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 2. **Calculating stocks daily return**
 3. **Finding correlation between daily returns**
-4. **Portfolio Assets Allocation and Statistical Data Analysis**
+4. **Portfolio Assets Allocation and Statistical Data Analysis** <a href="https://colab.research.google.com/github/pouyaardehkhani/FinancialAnalysis/blob/master/PORTFOLIO_ASSETS_ALLOCATION_AND_STATISTICAL_DATA_ANALYSIS.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
     
-    ## Portfolio Assets Allocation <a href="https://colab.research.google.com/github/pouyaardehkhani/FinancialAnalysis/blob/master/PORTFOLIO_ASSETS_ALLOCATION_AND_STATISTICAL_DATA_ANALYSIS.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    ## Portfolio Assets Allocation 
     &emsp; For those who do not know what **Portfolio Assets Allocation** is:
     A portfolio is a collection of financial investments(assets) such as stocks, fixed income securities (bonds), cash, mutual funds and Exchange Traded Funds (ETFs).
     ### Types of assets(only 3 of them covered)
@@ -61,9 +61,9 @@ This notebook provides some skills to perform financial analysis on economical d
     
     &emsp; **Sharpe ratio is simply a calculation of the average return earned in excess of the risk free rate (U.S. government bonds) per unit of risk (volatility). Note that <img src="https://render.githubusercontent.com/render/math?math=R_f">, is the risk-free rate of return which is the return on an investment with zero risk, meaning it's the return investors could expect for taking no risk. As Sharpe ratio increases, risk-adjusted return increases and security becomes more desired by investors.**
     
-6. **Portfolio Optimization using Monte Carlo Simulations**
+6. **Portfolio Optimization using Monte Carlo Simulations** <a href="https://colab.research.google.com/github/pouyaardehkhani/FinancialAnalysis/blob/master/Portfolio_Optimization___Monte_Carlo_Simulations.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 7. **Plotting MARKOWITZ EFFICIENT FRONTIER**
-8. **CAPITAL ASSET PRICING MODEL (CAPM)**
+8. **CAPITAL ASSET PRICING MODEL (CAPM)** <a href="https://colab.research.google.com/github/pouyaardehkhani/FinancialAnalysis/blob/master/CAPITAL_ASSET_PRICING_MODEL_(CAPM).ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
     ## CAPITAL ASSET PRICING MODEL (CAPM)
     For those who do not know what **CAPITAL ASSET PRICING MODEL (CAPM)** is:
     
@@ -93,12 +93,12 @@ The index is viewed as a gauge of large-cap U.S. equities.**
      * <img src="https://render.githubusercontent.com/render/math?math=B_i"> BETA BETWEEN THE STOCK AND THE MARKET
      * <img src="https://render.githubusercontent.com/render/math?math=(r_m\,-\,r_f)"> RISK PREMIUM (INCENTIVE FOR INVESTING IN A RISKY SECURITY)
      
-9. **Trading Using Moving Average**
+9. **Trading Using Moving Average** <a href="https://colab.research.google.com/github/pouyaardehkhani/FinancialAnalysis/blob/master/Trading_Using_Moving_Average.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 10. **create buy (1) and sell (-1) signal**
-11. **Stock Price Predictions Using regression / LSTM**
-12. **Bank Customers Segmentation**
+11. **Stock Price Predictions Using regression / LSTM** <a href="https://colab.research.google.com/github/pouyaardehkhani/FinancialAnalysis/blob/master/Stock_Price_Predictions_Using_regression_LSTM.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+12. **Bank Customers Segmentation** <a href="https://colab.research.google.com/github/pouyaardehkhani/FinancialAnalysis/blob/master/Bank_Customers_Segmentation.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 13. **AUTOENCODERS (PERFORM DIMENSIONALITY REDUCTION USING AUTOENCODERS)**
-14. **Stocks Sentiment Analysis Using AI**
+14. **Stocks Sentiment Analysis Using AI** <a href="https://colab.research.google.com/github/pouyaardehkhani/FinancialAnalysis/blob/master/Stocks_Sentiment_Analysis_Using_AI.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
      **We live in a world where we are constantly bombarded with social media feeds, tweets, and news articles. This huge data could be leveraged to predict people sentiment towards a particular company or stock. Natural language processing (NLP) works by converting words (text) into numbers. These numbers are then used to train an Al/ML model to make predictions. AI/ML-based sentiment analysis models, can be used to understand the sentiment from public tweets, which could be used as a factor while making a buy/sell decision of securities.**
      
